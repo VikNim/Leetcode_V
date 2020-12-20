@@ -1,2 +1,2 @@
 # Leetcode_December
-Leetcode challenges for December
+December leetcode challenge programs.

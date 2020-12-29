@@ -1,2 +1,2 @@
-# Leetcode_December
-December leetcode challenge programs.
+# Leetcode
+ Solving leetcode problems one by one as I get time.
